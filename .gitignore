@@ -49,3 +49,11 @@ app.*.map.json
 /linux/
 /macos/
 /android/
+.metadata
+pubspec.lock
+README.md
+test/widget_test.dart
+
+
+
+
