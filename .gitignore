@@ -51,7 +51,6 @@ app.*.map.json
 /android/
 .metadata
 pubspec.lock
-README.md
 test/widget_test.dart
 analysis_options.yaml
 
